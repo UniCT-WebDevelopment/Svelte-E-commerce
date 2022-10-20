@@ -1,0 +1,28 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.5",
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-node": "^1.0.0-next.95",
+    "@sveltejs/kit": "next",
+    "bootstrap": "^5.2.0",
+    "sass": "^1.53.0",
+    "svelte": "^3.44.0",
+    "svelte-preprocess": "^4.10.7",
+    "vite": "^3.1.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "svelte-notifications": "^0.9.97",
+    "svelte-persistent-store": "^0.1.6",
+    "sveltekit-i18n": "^2.2.2"
+  }
+}
