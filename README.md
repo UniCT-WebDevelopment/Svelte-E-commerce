@@ -83,7 +83,7 @@ Run Chrome with disabled cors option (OS X)
 open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
 ```
 
-### Bonus: run with Docker
+### Run with Docker
 
 ### Build server:
 
